@@ -25,7 +25,8 @@ This Power BI project contains a complete dashboard with three modules:
 - Time-based insights (hourly & daily peaks).  
 - Geographical pickup/dropoff density map.  
 - Interactive slicers (date range, pickup zone, payment type, driver).  
-- Custom DAX measures for revenue and average fare.  
+- Custom DAX measures for revenue and average fare.
+- Drill-through from summary visuals to trip-level details. 
 
 
 
