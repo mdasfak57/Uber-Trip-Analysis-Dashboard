@@ -63,7 +63,7 @@ This Power BI project contains a complete dashboard with three modules:
 
 
 ## Watch Demo:
-follow this link: https://drive.google.com/file/d/1qxeVUlWGoiDYxzUbfZ2mG6S7Ba9gYhUC/view?usp=sharing
+👆 follow this link: https://drive.google.com/file/d/1qxeVUlWGoiDYxzUbfZ2mG6S7Ba9gYhUC/view?usp=sharing
 
 ## 🤝 Contribution / Feedback
 This is a student project. Feedback and suggestions are welcome!  
