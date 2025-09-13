@@ -63,7 +63,27 @@ This Power BI project contains a complete dashboard with three modules:
 
 
 ## Watch Demo:
-follow this link: 
+follow this link: https://drive.google.com/file/d/1qxeVUlWGoiDYxzUbfZ2mG6S7Ba9gYhUC/view?usp=sharing
+
+## 🤝 Contribution / Feedback
+This is a student project. Feedback and suggestions are welcome!  
+If you have ideas to improve the dashboard, feel free to open an issue or fork this repo.
+
+
+## Badges
+
+![Status](https://img.shields.io/badge/Status-Final-green)  
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-blue?logo=powerbi)  
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow)  
+![Dataset Size](https://img.shields.io/badge/Data-50MB-orange)  
+![Stars](https://img.shields.io/github/stars/yourusername/uber-trip-dashboard?style=social)
+
+
+
+---
+Made with ❤️ in Power BI | [Md Asfak](https://github.com/mdasfak57)
+
+
 
 
 
