@@ -3,6 +3,17 @@ This project aims to design an interactive Power BI dashboard to analyze Uber tr
 
 **Objective:** Build an interactive Power BI dashboard to analyze Uber trip patterns, revenue, and driver/payment insights to support data-driven decisions.
 
+## Project structure:
+~~~
+├─ README.md
+├─ project.pbix
+├─ docs/report.pdf
+└─ assets/
+   ├─ overview.png
+   ├─ time.png
+   └─ details.png
+~~~
+
 ## Project summary
 This Power BI project contains a complete dashboard with three modules:
 1. **Overview Analysis** — KPIs (total trips, revenue, avg fare), top pickups/dropoffs.  
@@ -26,7 +37,12 @@ This Power BI project contains a complete dashboard with three modules:
 - Geographical pickup/dropoff density map.  
 - Interactive slicers (date range, pickup zone, payment type, driver).  
 - Custom DAX measures for revenue and average fare.
-- Drill-through from summary visuals to trip-level details. 
+- Drill-through from summary visuals to trip-level details.
+
+
+## Visualizations
+
+
 
 
 
