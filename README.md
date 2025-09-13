@@ -43,6 +43,26 @@ This Power BI project contains a complete dashboard with three modules:
 ## Visualizations
 
 
+# Uber Trip Dashboard
+
+## Overview Analysis
+
+<img width="2880" height="1800" alt="Screenshot 2025-09-13 085510" src="https://github.com/user-attachments/assets/9ef69c13-149e-4d5b-b3a4-5004633af80a" />
+
+![Overview Screenshot](assets/overview.png)
+
+## Time Analysis
+<img width="2880" height="1800" alt="Screenshot 2025-09-13 085530" src="https://github.com/user-attachments/assets/4a8ad001-06ce-475d-8a77-82328557ed40" />
+
+![Time Screenshot](assets/time.png)
+
+## Detailed View
+<img width="2880" height="1800" alt="Screenshot 2025-09-13 085546" src="https://github.com/user-attachments/assets/5a074702-794e-407f-8781-fafc106be902" />
+
+![Details Screenshot](assets/details.png)
+
+
+
 
 
 
