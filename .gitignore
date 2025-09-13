@@ -1,0 +1,17 @@
+# Windows / system files
+Thumbs.db
+*.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Power BI backup and temp
+*.pbix.backup
+*.pbit
+~$*
+
