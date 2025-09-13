@@ -62,6 +62,10 @@ This Power BI project contains a complete dashboard with three modules:
 ![Details Screenshot](assets/details.png)
 
 
+## Watch Demo:
+follow this link: 
+
+
 
 
 
